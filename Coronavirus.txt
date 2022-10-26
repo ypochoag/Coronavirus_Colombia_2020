@@ -1,3 +1,25 @@
-En la actualidad se vive una de las mayores pandemias a la que se enfrenta la humanidad en el último siglo y dadas las nuevas tecnologías que se tienen disponibles al alcance de casi todas las personas, hoy en día es muchísimo más fácil estandarizar toma de datos y llevar registro de comportamientos de virus, entre las nuevas tecnologías se encuentra el análisis de datos mediante computador, que ayuda en gran medida al humano a tomar decisiones que previenen riesgos futuros y minimiza costos, que en el caso de una pandemia como la que estamos viviendo, serian vidas humanas, entre las cosas que se pueden realizar, nos interesan datos como, saber a qué grupos de la población afecta en mayor o menor medida, hacer relaciones de diferentes variables para obtener comportamientos proporcionales e incluso ver en qué forma se va expandiendo la enfermedad, generando así metodologías para combatir o prevenir expansiones catastróficas, además, con ayuda de la digitalización es posible hallar más información de la que se puede ver a simple vista y de manera rápida.
 
-El distrito de Bogotá se ha encargado de realizar una base de datos sobre las personas que han presentado el COVID-19 en la zona y algunos pueblos aledaños, también ha documentados datos interesantes como lo son la fecha en la que iniciaron los síntomas, edades, sexo y localidad, esta base de datos a simple vista contiene poca información, por lo que para este proyecto, nos planteamos la incógnita de cuanta información oculta a nuestros ojos podemos llegar a obtener, partiremos sobre las bases adquiridas en las previas y talleres desarrollados en este módulo y nos concentraremos en aplicar los conocimientos con el ánimo de presentar información que nos ayude a realizar afirmaciones sobre el comportamiento del COVID-19 en la ciudad de Bogotá en los últimos meses.
+
+Statistical_analysis_Coronavirus_Colombia_2020
+
+Análisis y visualización de datos con Python
+
+
+En la actualidad se vive una de las mayores pandemias a la que se enfrenta la humanidad en el último siglo y 
+dadas las nuevas tecnologías que se tienen disponibles al alcance de casi todas las personas, hoy en día es 
+muchísimo más fácil estandarizar toma de datos y llevar registro de comportamientos de virus, entre las nuevas
+ tecnologías se encuentra el análisis de datos mediante computador, que ayuda en gran medida al humano a tomar
+ decisiones que previenen riesgos futuros y minimiza costos, que en el caso de una pandemia como la que estamos 
+viviendo, serian vidas humanas, entre las cosas que se pueden realizar, nos interesan datos como, saber a qué 
+grupos de la población afecta en mayor o menor medida, hacer relaciones de diferentes variables para obtener 
+comportamientos proporcionales e incluso ver en qué forma se va expandiendo la enfermedad, generando así 
+metodologías para combatir o prevenir expansiones catastróficas, además, con ayuda de la digitalización es posible
+ hallar más información de la que se puede ver a simple vista y de manera rápida.
+
+El distrito de Bogotá se ha encargado de realizar una base de datos sobre las personas que han presentado el 
+COVID-19 en la zona y algunos pueblos aledaños, también ha documentados datos interesantes como lo son la fecha 
+en la que iniciaron los síntomas, edades, sexo y localidad, esta base de datos a simple vista contiene poca información, 
+por lo que para este proyecto, nos planteamos la incógnita de cuanta información oculta a nuestros ojos podemos 
+llegar a obtener, partiremos sobre las bases adquiridas en las previas y talleres desarrollados en este módulo y 
+nos concentraremos en aplicar los conocimientos con el ánimo de presentar información que nos ayude a realizar 
+afirmaciones sobre el comportamiento del COVID-19 en la ciudad de Bogotá en los últimos meses.
